@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+3wreUU8YUxnim5QmsTm7IlH2HfqWpsc8VVYHNfHBcALiJJjGFfJxqgCPAnjAdNR2q08OSyWYzlRQEIzAvKAQ==",
+  "success": true,
+  "projectFilePath": "/Users/pegasus.dev/Projects/test3/test3/test3.csproj",
+  "expectedPackageFiles": [
+    "/Users/pegasus.dev/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pegasus.dev/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

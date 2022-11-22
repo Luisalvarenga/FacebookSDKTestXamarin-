@@ -1,0 +1,10 @@
+objc[10631]: Class SBFCARendererImageRepresentation is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/SpringBoardFoundation.framework/SpringBoardFoundation (0x11b7e6028) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/PaperBoardUI.framework/PaperBoardUI (0x11bad4218). One of the two will be used. Which one is undefined.
+objc[10631]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x7ff86434d770) and /Users/pegasus.dev/Library/Developer/CoreSimulator/Devices/04A5B281-482C-44C6-A94E-1153193C25DC/data/Containers/Bundle/Application/433F0758-4CDD-4D69-BF15-C646C7A991E7/test3.app/test3 (0x107e94e08). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2022-11-22 02:52:48.021991-0600 test3[10631:145693] Xamarin.iOS: Added IP to look for the IDE: 127.0.0.1
+2022-11-22 02:52:48.022145-0600 test3[10631:145693] Xamarin.iOS: IDE Port: 10000 Transport: WiFi
+2022-11-22 02:52:48.022488-0600 test3[10631:145693] Xamarin.iOS: Established connection with the IDE (fd: 3)
+2022-11-22 02:52:48.022880-0600 test3[10631:145693] Xamarin.iOS: Processing: 'start debugger: sdb'
+2022-11-22 02:52:48.023115-0600 test3[10631:145693] Xamarin.iOS: Established connection with the IDE (fd: 4)
+2022-11-22 02:52:48.023292-0600 test3[10631:145693] Xamarin.iOS: Processing: 'connect output'
+2022-11-22 02:52:48.023353-0600 test3[10631:145676] Xamarin.iOS: Debugger loaded with custom transport (fd: 3)
